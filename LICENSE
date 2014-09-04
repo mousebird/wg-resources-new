@@ -1,0 +1,30 @@
+
+base_maps/lowres_wtb
+————
+Blue Marble: Next Generation was produced by Reto Stöckli, NASA Earth Observatory (NASA Goddard Space Flight Center). See The Blue Marble Next Generation—A true color Earth dataset including seasonal dynamics from MODIS (880 kB PDF) for acknowledgments. Anyone using or republishing Blue Marble: Next Generation please credit “NASA’s Earth Observatory.”
+———
+
+elevation/
+——
+The original SRTM data is public domain.  However, this data set has been modified and merged with others by:  http://www.viewfinderpanoramas.org/dem3.html
+
+This whole data set should be public domain, but he doesn’t make it clear.  If you’re making a commercial application, I suggest you generate your own elevation.
+
+maki icons/
+——
+CC0 1.0 Universal
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+base_maps/geography-class_medres.mbtiles
+vectors/country_json_50m
+——
+All versions of Natural Earth raster + vector map data found on this website are in the public domain. You may use the maps in any manner, including modifying the content and design, electronic dissemination, and offset printing. The primary authors, Tom Patterson and Nathaniel Vaughn Kelso, and all other contributors renounce all financial claim to the maps and invites you to use them for personal, educational, and commercial purposes.
+
+vectors/sf_roads
+——
+Data provided by City and County of San Francisco
+
+CC0 1.0 Universal
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
