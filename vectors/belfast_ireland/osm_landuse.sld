@@ -37,7 +37,7 @@
     	  <se:MaxScaleDenominator>120000</se:MaxScaleDenominator>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#e6e6e6</CssParameter>
+              <CssParameter name="fill">#ffc965</CssParameter>
             </Fill>
             <Stroke>
            <CssParameter name="stroke">#e6e6e6</CssParameter>
@@ -119,7 +119,7 @@
     	  <se:MaxScaleDenominator>120000</se:MaxScaleDenominator>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#cbcbcb</CssParameter>
+              <CssParameter name="fill">#c0a3cb</CssParameter>
             </Fill>
             <Stroke>
            <CssParameter name="stroke">#cbcbcb</CssParameter>
@@ -195,7 +195,7 @@
     	  <se:MaxScaleDenominator>120000</se:MaxScaleDenominator>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#d5d5d5</CssParameter>
+              <CssParameter name="fill">#c4909c</CssParameter>
             </Fill>
             <Stroke>
            <CssParameter name="stroke">#d5d5d5</CssParameter>
