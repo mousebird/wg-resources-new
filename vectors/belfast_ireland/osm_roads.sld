@@ -37,6 +37,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
           <se:Name>trunk</se:Name>
@@ -70,6 +95,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
           <se:Name>primary</se:Name>
@@ -103,6 +153,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">14.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
           <se:Name>secondary</se:Name>
@@ -136,6 +211,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">14.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
           <se:Name>tertiary</se:Name>
@@ -169,6 +269,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">14.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
           <se:Name>roads</se:Name>
@@ -236,6 +361,31 @@
               <se:SvgParameter name="stroke-linecap">square</se:SvgParameter>
             </se:Stroke>
           </se:LineSymbolizer>
+          <se:TextSymbolizer>
+            <se:Label>
+              <ogc:PropertyName>name</ogc:PropertyName>
+            </se:Label>
+            <se:Font>
+              <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
+              <se:SvgParameter name="font-size">12.0</se:SvgParameter>
+              <se:SvgParameter name="font-style">normal</se:SvgParameter>
+              <se:SvgParameter name="font-weight">normal</se:SvgParameter>
+            </se:Font>
+            <se:LabelPlacement>
+              <se:LinePlacement>
+                <se:PerpendicularOffset>0</se:PerpendicularOffset>
+              </se:LinePlacement>
+            </se:LabelPlacement>
+            <se:Halo>
+              <se:Radius>3</se:Radius>
+              <se:Fill>
+                <se:SvgParameter name="fill">#ffffff</se:SvgParameter>
+              </se:Fill>
+            </se:Halo>
+            <se:Fill>
+              <se:SvgParameter name="fill">#000000</se:SvgParameter>
+            </se:Fill>
+          </se:TextSymbolizer>
         </se:Rule>
       </se:FeatureTypeStyle>
     </UserStyle>

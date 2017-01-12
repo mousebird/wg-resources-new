@@ -28,7 +28,7 @@
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
-              <se:SvgParameter name="font-size">9.0</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
               <se:SvgParameter name="font-style">normal</se:SvgParameter>
               <se:SvgParameter name="font-weight">normal</se:SvgParameter>
             </se:Font>
@@ -41,7 +41,7 @@
               </se:PointPlacement>
             </se:LabelPlacement>
             <se:Halo>
-              <se:Radius>1</se:Radius>
+              <se:Radius>3</se:Radius>
               <se:Fill>
                 <se:SvgParameter name="fill">#FFFFFF</se:SvgParameter>
               </se:Fill>
@@ -74,7 +74,7 @@
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
-              <se:SvgParameter name="font-size">9.0</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
               <se:SvgParameter name="font-style">normal</se:SvgParameter>
               <se:SvgParameter name="font-weight">normal</se:SvgParameter>
             </se:Font>
@@ -87,7 +87,7 @@
               </se:PointPlacement>
             </se:LabelPlacement>
             <se:Halo>
-              <se:Radius>1</se:Radius>
+              <se:Radius>3</se:Radius>
               <se:Fill>
                 <se:SvgParameter name="fill">#FFFFFF</se:SvgParameter>
               </se:Fill>
@@ -120,7 +120,7 @@
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
-              <se:SvgParameter name="font-size">9.0</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
               <se:SvgParameter name="font-style">normal</se:SvgParameter>
               <se:SvgParameter name="font-weight">normal</se:SvgParameter>
             </se:Font>
@@ -133,7 +133,7 @@
               </se:PointPlacement>
             </se:LabelPlacement>
             <se:Halo>
-              <se:Radius>1</se:Radius>
+              <se:Radius>3</se:Radius>
               <se:Fill>
                 <se:SvgParameter name="fill">#FFFFFF</se:SvgParameter>
               </se:Fill>
@@ -166,7 +166,7 @@
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
-              <se:SvgParameter name="font-size">9.0</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
               <se:SvgParameter name="font-style">normal</se:SvgParameter>
               <se:SvgParameter name="font-weight">normal</se:SvgParameter>
             </se:Font>
@@ -179,7 +179,7 @@
               </se:PointPlacement>
             </se:LabelPlacement>
             <se:Halo>
-              <se:Radius>1</se:Radius>
+              <se:Radius>3</se:Radius>
               <se:Fill>
                 <se:SvgParameter name="fill">#FFFFFF</se:SvgParameter>
               </se:Fill>
@@ -212,7 +212,7 @@
             </se:Label>
             <se:Font>
               <se:SvgParameter name="font-family">DejaVu Sans</se:SvgParameter>
-              <se:SvgParameter name="font-size">9.0</se:SvgParameter>
+              <se:SvgParameter name="font-size">16.0</se:SvgParameter>
               <se:SvgParameter name="font-style">normal</se:SvgParameter>
               <se:SvgParameter name="font-weight">normal</se:SvgParameter>
             </se:Font>
@@ -225,7 +225,7 @@
               </se:PointPlacement>
             </se:LabelPlacement>
             <se:Halo>
-              <se:Radius>1</se:Radius>
+              <se:Radius>3</se:Radius>
               <se:Fill>
                 <se:SvgParameter name="fill">#FFFFFF</se:SvgParameter>
               </se:Fill>
