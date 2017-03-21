@@ -49,6 +49,10 @@
             <se:Fill>
               <se:SvgParameter name="fill">#000000</se:SvgParameter>
             </se:Fill>
+            <VendorOption name="markerXScale">0</VendorOption>
+            <VendorOption name="markerXOffset">20</VendorOption>
+            <VendorOption name="markerYScale">0</VendorOption>
+            <VendorOption name="markerYOffset">0</VendorOption>
           </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
@@ -95,6 +99,10 @@
             <se:Fill>
               <se:SvgParameter name="fill">#000000</se:SvgParameter>
             </se:Fill>
+            <VendorOption name="markerXScale">0</VendorOption>
+            <VendorOption name="markerXOffset">20</VendorOption>
+            <VendorOption name="markerYScale">0</VendorOption>
+            <VendorOption name="markerYOffset">0</VendorOption>
           </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
@@ -141,6 +149,10 @@
             <se:Fill>
               <se:SvgParameter name="fill">#000000</se:SvgParameter>
             </se:Fill>
+            <VendorOption name="markerXScale">0</VendorOption>
+            <VendorOption name="markerXOffset">20</VendorOption>
+            <VendorOption name="markerYScale">0</VendorOption>
+            <VendorOption name="markerYOffset">0</VendorOption>
           </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
@@ -187,6 +199,10 @@
             <se:Fill>
               <se:SvgParameter name="fill">#000000</se:SvgParameter>
             </se:Fill>
+            <VendorOption name="markerXScale">0</VendorOption>
+            <VendorOption name="markerXOffset">20</VendorOption>
+            <VendorOption name="markerYScale">0</VendorOption>
+            <VendorOption name="markerYOffset">0</VendorOption>
           </se:TextSymbolizer>
         </se:Rule>
         <se:Rule>
@@ -233,6 +249,10 @@
             <se:Fill>
               <se:SvgParameter name="fill">#000000</se:SvgParameter>
             </se:Fill>
+            <VendorOption name="markerXScale">0</VendorOption>
+            <VendorOption name="markerXOffset">20</VendorOption>
+            <VendorOption name="markerYScale">0</VendorOption>
+            <VendorOption name="markerYOffset">0</VendorOption>
           </se:TextSymbolizer>
         </se:Rule>
       </se:FeatureTypeStyle>
