@@ -1,0 +1,115 @@
+{
+  "name": "test",
+  "version": 8,
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "#comment": "bg is currently dynamic per-level, not per-frame",
+      "paint": {
+        "background-color": {
+          "stops": [
+            [
+              0,
+              "rgba(255,255,255,1)"
+            ],
+            [
+              16,
+              "rgba(255,0,0,1)"
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "landcover_forestland",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "globallandcover",
+      "filter": [
+        "all",
+        [
+          "==",
+          "class",
+          "crop"
+        ]
+      ],
+      "paint": {
+        "fill-color": {
+          "base": 1,
+          "stops": [
+            [
+              4,
+              "#00f"
+            ],
+            [
+              5,
+              "#0f0"
+            ]
+          ]
+        },
+        "fill-opacity": {
+          "base": 1,
+          "stops": [
+            [
+              5,
+              1
+            ],
+            [
+              6,
+              0
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "id": "road_motorway",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "all",
+        [
+          "==",
+          "class",
+          "motorway"
+        ]
+      ],
+      "paint": {
+        "line-color": {
+          "base": 1,
+          "stops": [
+            [
+              5,
+              "hsl(26,87%,62%)"
+            ],
+            [
+              16,
+              "#0f0"
+            ]
+          ]
+        },
+        "line-width": {
+          "base": 1.2,
+          "stops": [
+            [
+              5,
+              0
+            ],
+            [
+              16,
+              60
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=MapTilerKey"
+    }
+  }
+}
