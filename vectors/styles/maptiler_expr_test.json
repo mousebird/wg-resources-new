@@ -103,10 +103,13 @@
       ],
       "paint": {
         "line-color": {
-          "base": 1,
+          "#comment": "Streets go blue and a little transparent at 11, but the latter should be overridden (not composed) by line-opacity",
+          "base": 2,
           "stops": [
             [5, "hsl(26,87%,62%)"],
-            [16, "#0f0"]
+            [10, "#0f0"],
+            [11, "#00fa"],
+            [12, "#0f0"]
           ]
         },
         "line-width": {
@@ -122,6 +125,7 @@
           "#comment": "Offset=0 at level 13",
           "base": 1.5,
           "stops": [
+            [0,0],
             [10, -10],
             [16, 10]
           ]
@@ -131,7 +135,7 @@
           "base": 1,
           "stops": [
             [10, 1],
-            [11, 0.1],
+            [11, 0.01],
             [12, 1]
           ]
         }
